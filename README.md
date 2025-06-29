@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rishit</h1>
 <h3 align="center">I'm currently an high school student from Ottawa, Canada. I'm interested in FinTech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishsacred&label=Profile%20views&color=0e75b6&style=flat" alt="rishsacred" /> </p>
